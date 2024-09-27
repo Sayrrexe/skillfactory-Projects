@@ -1,6 +1,6 @@
 # skillfactory
 
-### Репозиторий учебных проектов по python:
+### Репозиторий учебных проектов курса Fullstack Python Developer от skillfactory:
 
     Convert-bot - Телеграм-приложение для перевода валют по актуальному курсу
     Tic-Tac-Toe - игра крестики-нолики
